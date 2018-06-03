@@ -13,6 +13,12 @@ body {
 
 img {
     max-width: 100%; /* Afbeeldingen responsive maken */
+  
+}
+img.img_conc{
+    width:600px;
+    float:right;
 }
 
-/* Voeg jouw css hieraan toe */
+
+
